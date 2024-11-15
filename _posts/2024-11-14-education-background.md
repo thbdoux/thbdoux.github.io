@@ -13,7 +13,6 @@ mathjax: true
 author: Thibault Doux
 ---
 
-{: .box-success}
 My academic journey, from high school through advanced studies in data science and theoretical physics, showcases my passion for mathematics, research, and AI. Here’s a timeline highlighting each pivotal step, with alternating visuals and integrated mathematical expressions.
 
 ---
