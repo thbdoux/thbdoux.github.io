@@ -5,7 +5,7 @@ subtitle: A Journey Through Mathematics, Physics, and Data Science
 gh-repo: thbdoux/
 gh-badge: [star, fork, follow]
 tags: [education, timeline, data science, physics, supaero, polytechnique]
-cover-img: /assets/img/space.jpg
+#cover-img: /assets/img/space.jpg
 thumbnail-img: /assets/img/diplome.jpg
 share-img: /assets/img/space.jpg
 comments: true
