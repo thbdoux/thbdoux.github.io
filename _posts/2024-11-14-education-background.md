@@ -75,7 +75,7 @@ Returning to **ISAE-Supaero**, I specialized in **Data Science and Applied Mathe
 - **Transformers and NLP**: Delved into cutting-edge **transformer architectures** that power large language models, aligning closely with the advancements in conversational AI such as **ChatGPT**.
 
 
-<img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" alt="Data Science" style="width:200px; height:auto;" class="float-left">
+<img src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png" alt="Data Science" style="width:200px; height:auto;" class="center">
 
 
 ---
