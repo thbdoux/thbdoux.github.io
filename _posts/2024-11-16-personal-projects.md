@@ -49,6 +49,7 @@ Okay. This is where **we come in** :
 
 LLM-Agent for Business Intelligence. Querying SQL Databases, generation intuitive visualizations. There is even a feature that automate the discovery of any database by generating the insights itself. I called it : **Rescue-L**. Good name, isn't it?
 
+(Visuals incoming...)
 
 ## AI Hackathon
 
@@ -64,8 +65,8 @@ Novel, anticipation, dystopia. Beginned in December 2023, some big long term pro
 
 ## Run far. Lift heavy. Stay hybrid.
 
-<img src="{{ '/assets/img/run.png' | relative_url }}" alt="Run far" style="width:300px; height:auto;" class="left">
-<img src="{{ '/assets/img/lifting.png' | relative_url }}" alt="Lift heavy" style="width:600px; height:auto;" class="right">
-<img src="{{ '/assets/img/squat.jpg' | relative_url }}" alt="Stay hybrid" style="width:500px; height:auto;" class="center">
+<img src="{{ '/assets/img/run.png' | relative_url }}" alt="Run far" style="width:300px; height:auto;" class="float-left">
+<img src="{{ '/assets/img/lifting.png' | relative_url }}" alt="Lift heavy" style="width:300px; height:auto;" class="float-center">
+<img src="{{ '/assets/img/squat.jpg' | relative_url }}" alt="Stay hybrid" style="width:300px; height:auto;" class="float-right">
 
 
