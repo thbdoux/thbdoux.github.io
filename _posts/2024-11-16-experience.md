@@ -14,30 +14,50 @@ author: Thibault Doux
 
 ## HeadMind Partners AI
 
+<img src="https://join.headmind.com/wp-content/uploads/2021/12/Logo-HeadMind-Partners-PNG-BLEU.png" alt="" style="width:400px; height:auto;" class="center">
+
+
 ### Internship (April 2023 - October 2023)
 
-During my internship at **HeadMind Partners AI & Blockchain**, I focused on innovative research and development projects in audio processing and deep learning:
+During my internship at **HeadMind Partners AI & Blockchain**, I focused on innovative research and development projects that combined deep learning and audio processing:
 
 - **R&D: Speech Emotion Recognition**: 
-  - Fine-tuned **wav2vec2** and **HuBERT** encoders with a custom fully connected layer for **valence/arousal regression**, achieving **state-of-the-art (SOTA)** results on benchmark datasets such as **RAVDESS** and **IEMOCAP**. This work highlighted the potential of pre-trained audio models for emotion detection tasks with high accuracy and robustness.
+  - Fine-tuned **wav2vec2** and **HuBERT** encoders, adding a fully connected layer for **valence/arousal regression**, achieving **state-of-the-art (SOTA)** results on well-known datasets such as **RAVDESS** and **IEMOCAP**. This project explored the depths of emotional analysis through audio signals.
 - **R&D: Audio Generation and Conversion**:
-  - Partially fine-tuned the **Tortoise model** (a combination of **ViT + GPT-2**, with a frozen diffusion model) to generate French speech. Despite efforts, results were somewhat underwhelming due to limited diversity in available French audio data, often biased towards Canadian accents.
-  - Fine-tuned a **voice cloning model (RVC)** on multiple voices, including my manager's voice, to create highly realistic voice clones. This included a memorable moment where I pranked a colleague by using **real-time voice conversion** with his voice over the phone — with impressive results (shout out to him!).
+  - Partially fine-tuned the **Tortoise model** (a blend of **ViT + GPT-2**, with a frozen diffusion model) to generate French speech. The results were somewhat disappointing due to the limited variety in French audio datasets, often featuring a distinct Canadian accent.
+  - Fine-tuned a **voice cloning model (RVC)** on multiple voices, including my manager’s, achieving highly realistic cloning. One memorable highlight was pranking a colleague using **real-time voice conversion** over the phone — and it worked brilliantly (shout-out to him for being a good sport)!
 
 ---
 
 ### Full-Time Data Scientist Role (November 2023 - September 2024)
 
-As a full-time data scientist, I took on a combination of client missions and continued R&D work, building on my previous experience and driving impactful AI solutions:
+Upon transitioning to a full-time role, I worked on impactful client missions and pursued further R&D initiatives:
 
-- **Client Mission: Supply Chain Optimization**:
-  - Designed and deployed an optimization solver for a leading French luxury brand, using **Constraint Programming** and **Stochastic Optimization** techniques. The system reduced the average combinatorial cost of raw material distribution by 30% and was implemented using **AWS services** like S3, Lambda, and SageMaker, scaling to production effectively.
+- **Client Mission: Supply Chain Optimization for a French Luxury Brand (Can't Say the Name, But It Starts with 'H' and Ends with 'ermès' 🤫)**:
+  - Designed and built an optimization solver using **Google OR-Tools**.
+
+<img src="https://avatars.githubusercontent.com/u/65553074?v=4" alt="Google OR-Tools Logo" style="width:200px; height:auto;" class="center">
+
+  - Implemented a **multi-objective optimization framework** following the **Pareto optimum paradigm**, optimizing complex trade-offs between objectives. 
+  - Leveraged production-ready data from the supply chain, including stocks, historical data, feasibility constraints, and commands.
+  - Conducted **hyperparameter optimization** and integrated algorithmic explainability to assist users in selecting hyperparameters and configurations that suited their needs.
+  - Established a **real-time connection** with the client's **Snowflake datamart** and deployed the solution on **AWS** using **ECS with a CI/CD pipeline** for automated integration and delivery. Initially deployed using **SageMaker**, we transitioned to **Batch instances** for cost-effective, intensive optimization processes, while storing results in **S3**.
+  - The system was successfully used in production for four months, achieving a **30% reduction in combinatorial costs**.
+
+<div>
+    <img src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" alt="AWS SageMaker" style="width:200px; height:auto;" class="float-left">
+    <img src="https://www.skyarch.net/blog/wp-content/uploads/2022/02/EC2.png" alt="Amazon EC2" style="width:200px; height:auto;" class="float-center">
+    <img src="https://thaimai.tech/wp-content/uploads/2024/06/aws-batch.png" alt="AWS Batch" style="width:200px; height:auto;" class="float-right">
+</div>
 - **Client Mission: Deepfake Generation**:
-  - Developed real-time **audio and video deepfakes** to raise awareness about potential digital risks among corporate executives.
-- **R&D: Meeting Summarizer with LLM, Diarization, and Speech-to-Text (STT)**:
-  - Built a meeting summarization pipeline integrating **automatic speech recognition (ASR)**, speaker diarization, and **large language models (LLMs)** to automatically transcribe and summarize meetings with high accuracy and relevance.
+  - Developed real-time **audio and video deepfake** capabilities using **lip-sync** and **motion transfer** for video, combined with **text-to-speech (TTS)** and **voice conversion** for speech manipulation. This system aimed to raise awareness among executives about potential digital risks.
+
+- **R&D: Meeting Summarizer with WhisperX, Diarization, and LLMs**:
+  - Built a locally deployed meeting summarization system combining **WhisperX** for speech recognition, **diarization and speaker detection**, and **LLMs** for generating summaries and reports using **LangChain** integrated with a locally hosted **Mistral 7B** model (GGUF quantized model). This comprehensive pipeline provided accurate and detailed meeting notes with speaker differentiation and contextual reporting.
+
 - **R&D: Vocal Assistant**:
-  - Created a **vocal assistant API** that leveraged **LLMs (Mistral/GPTs)**, **WhisperX**, **Text-to-Speech models**, and frameworks like **LangChain** and **FastAPI/SocketIO** for seamless, real-time voice interaction and communication capabilities.
+  - Designed an end-to-end **speech-to-text (STT) + LLM agents + text-to-speech (TTS)** pipeline for a fully experimental vocal assistant. 
+  - Integrated **LangChain-based LLM agents** to handle specific functions, including web search, language recognition to provide responses in the appropriate language, and **retrieval-augmented generation (RAG)** with a simple vectorstore for contextual answers.
 
-
+ <img src="https://cdn.jaimelesstartups.fr/wp-content/uploads/2024/02/Logo%20de%20la%20startup%20Mistral.ai.png" alt="Mistral AI" style="width:200px; height:auto;" class="center">
 
