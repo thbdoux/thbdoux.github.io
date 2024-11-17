@@ -39,13 +39,11 @@ You've got some years in the gym now. You're good, but you wanna be *great*. You
 
 Fun fact : you're **broke**. In fact, who can afford a professional and personalized coaching ? 
 
-Okay. This is where **we come in** : 
-
-# AI BROS : an AI powered social network for gym enjoyers.
+Okay. This is where **we come in** :
 
 <img src="{{ '/assets/img/aibros.png' | relative_url }}" alt="AI Bros" style="width:300px; height:auto;" class="center">
 
-![]({{ '/assets/img/aibros.png' | relative_url }})
+(coming in 2025)
 
 ## Some more AI stuff 
 
@@ -54,16 +52,20 @@ LLM-Agent for Business Intelligence. Querying SQL Databases, generation intuitiv
 
 ## AI Hackathon
 
-<img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/qd/76a433f2-9621-4f19-956b-c73a86aa1e9d" alt="LLM Hack" style="width:200px; height:auto;" class="center">
+Hackathon was about building a solution with LLMs. The Fitness Equation popped into my mind and... this is where I became an **AI Bro**...
 
-<img src="{{ '/assets/img/DSC01356.JPG' | relative_url }}" alt="Double AI Bros biceps" style="width:300px; height:auto;" class="center">
-![]({{ '/assets/img/DSC01356.JPG' | relative_url }})
-
-<img src="{{ '/assets/img/DSC01635.JPG' | relative_url }}" alt="AI Bros presentation" style="width:300px; height:auto;" class="center">
-![]({{ '/assets/img/DSC01635.JPG' | relative_url }})
+<img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/qd/76a433f2-9621-4f19-956b-c73a86aa1e9d" alt="LLM Hack" style="width:200px; height:auto;" class="left">
+<img src="{{ '/assets/img/DSC01356.JPG' | relative_url }}" alt="Double AI Bros biceps" style="width:600px; height:auto;" class="right">
+<img src="{{ '/assets/img/DSC01635.JPG' | relative_url }}" alt="AI Bros presentation" style="width:800px; height:auto;" class="center">
 
 ## Writing a book 
 
 Novel, anticipation, dystopia. Beginned in December 2023, some big long term project. Slowly but surely.
+
+## Run far. Lift heavy. Stay hybrid.
+
+<img src="{{ '/assets/img/run.png' | relative_url }}" alt="Run far" style="width:300px; height:auto;" class="left">
+<img src="{{ '/assets/img/lifting.png' | relative_url }}" alt="Lift heavy" style="width:600px; height:auto;" class="right">
+<img src="{{ '/assets/img/squat.jpg' | relative_url }}" alt="Stay hybrid" style="width:500px; height:auto;" class="center">
 
 
