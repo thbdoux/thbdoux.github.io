@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My career so far
+title: My Career So Far
 subtitle: as a Data Scientist
 gh-repo: thbdoux/
 tags: [data science, headmind partners ai]
@@ -9,6 +9,7 @@ comments: true
 mathjax: true
 author: Thibault Doux
 ---
+
 At HeadMind Partners AI, I contributed to the development of deep learning solutions for audio processing, LLM-driven applications, and cutting-edge operational research systems. My work spanned from building speech emotion recognition models and meeting summarizers to optimizing supply chains for luxury brands. 
 
 ---
@@ -41,10 +42,11 @@ Upon transitioning to a full-time role, I worked on impactful client missions an
   - Implemented a **multi-objective optimization framework** following the **Pareto optimum paradigm**, optimizing complex trade-offs between objectives. 
   - Leveraged production-ready data from the supply chain, including stocks, historical data, feasibility constraints, and commands.
   - Conducted **hyperparameter optimization** and integrated algorithmic explainability to assist users in selecting hyperparameters and configurations that suited their needs.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="AWS" style="width:100px; height:auto;" class="float-left">
   - Established a **real-time connection** with the client's **Snowflake datamart** and deployed the solution on **AWS** using **ECS with a CI/CD pipeline** for automated integration and delivery. Initially deployed using **SageMaker**, we transitioned to **Batch instances** for cost-effective, intensive optimization processes, while storing results in **S3**.
   - The system was successfully used in production for four months, achieving a **30% reduction in combinatorial costs**.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="AWS" style="width:200px; height:auto;" class="center">
+
 
 
 ### Deepfake Generation
@@ -52,11 +54,14 @@ Upon transitioning to a full-time role, I worked on impactful client missions an
   - Developed real-time **audio and video deepfake** capabilities using **lip-sync** and **motion transfer** for video, combined with **text-to-speech (TTS)** and **voice conversion** for speech manipulation. This system aimed to raise awareness among executives about potential digital risks.
 
 ### Meeting Summarizer with WhisperX, Diarization, and LLMs (R&D)
+
   - Built a locally deployed meeting summarization system combining **WhisperX** for speech recognition, **diarization and speaker detection**, and **LLMs** for generating summaries and reports using **LangChain** integrated with a locally hosted **Mistral 7B** model (GGUF quantized model). This comprehensive pipeline provided accurate and detailed meeting notes with speaker differentiation and contextual reporting.
 
-
 <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1695308256768x626644891139990000%2Fopen-ai.png?w=&h=&auto=compress&dpr=1&fit=max" alt="OpenAI Whisper" style="width:100px; height:auto;" class="left">
+<img src="
+https://media.licdn.com/dms/image/D4D12AQGQQFHNeQJRgQ/article-cover_image-shrink_720_1280/0/1711873462713?e=2147483647&v=beta&t=u5ls9p4LHatE_PxtiNIm23lIFGMaAjp-XHdV7TwwDxE" alt="Langchain" style="width:200px; height:auto;" class="center">
 <img src="https://cdn.jaimelesstartups.fr/wp-content/uploads/2024/02/Logo%20de%20la%20startup%20Mistral.ai.png" alt="Mistral AI" style="width:200px; height:auto;" class="right">
+
 
 
 ### Vocal Assistant (R&D)

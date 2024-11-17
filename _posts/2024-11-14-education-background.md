@@ -3,7 +3,6 @@ layout: post
 title: From High School to Graduation
 subtitle: A Journey Through Mathematics, Physics, and Data Science
 gh-repo: thbdoux/
-gh-badge: [follow]
 tags: [education, supaero, polytechnique, maths, physics, data science, ai ]
 thumbnail-img: /assets/img/diplome.jpg
 share-img: /assets/img/space.jpg
@@ -86,5 +85,5 @@ This specialization married the theoretical underpinnings of AI with practical a
 ---
 
 {: .box-note}
-**Reflecting on My Journey:** My focus on blending theoretical rigor with applied data science has guided me through academia and continues to inform my professional endeavors in AI.
+My focus on blending theoretical rigor with applied data science has guided me through academia and continues to inform my professional endeavors in AI.
 

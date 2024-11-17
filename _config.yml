@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Personal Projects
+title: Who Am I
 
 # Your name to show in the footer
 author: Thibault Doux
@@ -20,7 +20,6 @@ author: Thibault Doux
 ###############################################
 
 navbar-links:
-  About Me: ""
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/thibaultdoux/"
     - GitHub: "https://github.com/thbdoux"
@@ -92,8 +91,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
