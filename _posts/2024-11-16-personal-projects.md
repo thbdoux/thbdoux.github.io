@@ -39,9 +39,11 @@ You've got some years in the gym now. You're good, but you wanna be *great*. You
 
 Fun fact : you're **broke**. In fact, who can afford a professional and personalized coaching ? 
 
-Okay. This is where **we come in**. **AI BROS : an AI powered social network for gym enjoyers.**
+Okay. This is where **we come in** : 
 
-<img src="assets/img/aibros.png" alt="AI Bros" style="width:300px; height:auto;" class="center">
+# AI BROS : an AI powered social network for gym enjoyers.
+
+<img src="2024-11-16-personal-projects/assets/img/aibros.png" alt="AI Bros" style="width:300px; height:auto;" class="center">
 
 
 ## Some more AI stuff 
@@ -51,9 +53,9 @@ Okay. This is where **we come in**. **AI BROS : an AI powered social network for
 
 <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/qd/76a433f2-9621-4f19-956b-c73a86aa1e9d" alt="LLM Hack" style="width:200px; height:auto;" class="center">
 
-<img src="assets/img/DSC01356.JPG" alt="Double AI Bros biceps" style="width:300px; height:auto;" class="center">
+<img src="2024-11-16-personal-projects/assets/img/DSC01356.JPG" alt="Double AI Bros biceps" style="width:300px; height:auto;" class="center">
 
-<img src="assets/img/DSC01635.JPG" alt="AI Bros presentation" style="width:300px; height:auto;" class="center">
+<img src="2024-11-16-personal-projects/assets/img/DSC01635.JPG" alt="AI Bros presentation" style="width:300px; height:auto;" class="center">
 
 
 ## Writing a book 
