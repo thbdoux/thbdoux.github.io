@@ -3,8 +3,8 @@ layout: post
 title: From High School to Graduation
 subtitle: A Journey Through Mathematics, Physics, and Data Science
 gh-repo: thbdoux/
-gh-badge: [star, fork, follow]
-tags: [education, timeline, data science, physics, supaero, polytechnique]
+gh-badge: [follow]
+tags: [education, supaero, polytechnique, maths, physics, data science, ai ]
 thumbnail-img: /assets/img/diplome.jpg
 share-img: /assets/img/space.jpg
 comments: true
