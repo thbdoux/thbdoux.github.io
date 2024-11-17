@@ -12,28 +12,27 @@ author: Thibault Doux
 
 ---
 
-## HeadMind Partners AI
-
 <img src="https://join.headmind.com/wp-content/uploads/2021/12/Logo-HeadMind-Partners-PNG-BLEU.png" alt="" style="width:400px; height:auto;" class="center">
 
 
-### Internship (April 2023 - October 2023)
+## Internship (April 2023 - October 2023)
 
 During my internship at **HeadMind Partners AI & Blockchain**, I focused on innovative research and development projects that combined deep learning and audio processing:
 
-- **R&D: Speech Emotion Recognition**: 
+### Speech Emotion Recognition (R&D)
   - Fine-tuned **wav2vec2** and **HuBERT** encoders, adding a fully connected layer for **valence/arousal regression**, achieving **state-of-the-art (SOTA)** results on well-known datasets such as **RAVDESS** and **IEMOCAP**. This project explored the depths of emotional analysis through audio signals.
-- **R&D: Audio Generation and Conversion**:
+### Audio Generation and Conversion (R&D)
   - Partially fine-tuned the **Tortoise model** (a blend of **ViT + GPT-2**, with a frozen diffusion model) to generate French speech. The results were somewhat disappointing due to the limited variety in French audio datasets, often featuring a distinct Canadian accent.
   - Fine-tuned a **voice cloning model (RVC)** on multiple voices, including my manager’s, achieving highly realistic cloning. One memorable highlight was pranking a colleague using **real-time voice conversion** over the phone — and it worked brilliantly (shout-out to him for being a good sport)!
 
 ---
 
-### Full-Time Data Scientist Role (November 2023 - September 2024)
+## Full-Time Data Scientist Role (November 2023 - September 2024)
 
 Upon transitioning to a full-time role, I worked on impactful client missions and pursued further R&D initiatives:
 
-- **Client Mission: Supply Chain Optimization for a French Luxury Brand (Can't Say the Name, But It Starts with 'H' and Ends with 'ermès' 🤫)**:
+### Supply Chain Optimization for a French Luxury Brand 
+  - Can't Say the Name, But It Starts with 'H' and Ends with 'ermès' 🤫
   - Designed and built an optimization solver using **Google OR-Tools**.
 
 <img src="https://avatars.githubusercontent.com/u/65553074?v=4" alt="Google OR-Tools Logo" style="width:200px; height:auto;" class="center">
@@ -50,10 +49,11 @@ Upon transitioning to a full-time role, I worked on impactful client missions an
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/800px-Amazon_Lambda_architecture_logo.svg.png" alt="AWS Lambda" style="width:200px; height:auto;" class="float-right">
 </div>
 
-- **Client Mission: Deepfake Generation**:
+### Deepfake Generation
+  - Mission for a company from the energy sector.
   - Developed real-time **audio and video deepfake** capabilities using **lip-sync** and **motion transfer** for video, combined with **text-to-speech (TTS)** and **voice conversion** for speech manipulation. This system aimed to raise awareness among executives about potential digital risks.
 
-- **R&D: Meeting Summarizer with WhisperX, Diarization, and LLMs**:
+### Meeting Summarizer with WhisperX, Diarization, and LLMs (R&D)
   - Built a locally deployed meeting summarization system combining **WhisperX** for speech recognition, **diarization and speaker detection**, and **LLMs** for generating summaries and reports using **LangChain** integrated with a locally hosted **Mistral 7B** model (GGUF quantized model). This comprehensive pipeline provided accurate and detailed meeting notes with speaker differentiation and contextual reporting.
 
 <div>
@@ -61,7 +61,7 @@ Upon transitioning to a full-time role, I worked on impactful client missions an
     <img src="https://cdn.jaimelesstartups.fr/wp-content/uploads/2024/02/Logo%20de%20la%20startup%20Mistral.ai.png" alt="Mistral AI" style="width:200px; height:auto;" class="float-right">
 </div>
 
-- **R&D: Vocal Assistant**:
+### Vocal Assistant (R&D)
   - Designed an end-to-end **speech-to-text (STT) + LLM agents + text-to-speech (TTS)** pipeline for a fully experimental vocal assistant. 
   - Integrated **LangChain-based LLM agents** to handle specific functions, including web search, language recognition to provide responses in the appropriate language, and **retrieval-augmented generation (RAG)** with a simple vectorstore for contextual answers.
 
