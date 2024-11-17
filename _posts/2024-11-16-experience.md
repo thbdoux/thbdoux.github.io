@@ -46,18 +46,23 @@ Upon transitioning to a full-time role, I worked on impactful client missions an
 
 <div>
     <img src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" alt="AWS SageMaker" style="width:200px; height:auto;" class="float-left">
-    <img src="https://www.skyarch.net/blog/wp-content/uploads/2022/02/EC2.png" alt="Amazon EC2" style="width:200px; height:auto;" class="float-center">
-    <img src="https://thaimai.tech/wp-content/uploads/2024/06/aws-batch.png" alt="AWS Batch" style="width:200px; height:auto;" class="float-right">
+    <img src="https://www.skyarch.net/blog/wp-content/uploads/2022/02/EC2.png" alt="Amazon EC2" style="width:200px; height:auto;" class="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/800px-Amazon_Lambda_architecture_logo.svg.png" alt="AWS Lambda" style="width:200px; height:auto;" class="float-right">
 </div>
+
 - **Client Mission: Deepfake Generation**:
   - Developed real-time **audio and video deepfake** capabilities using **lip-sync** and **motion transfer** for video, combined with **text-to-speech (TTS)** and **voice conversion** for speech manipulation. This system aimed to raise awareness among executives about potential digital risks.
 
 - **R&D: Meeting Summarizer with WhisperX, Diarization, and LLMs**:
   - Built a locally deployed meeting summarization system combining **WhisperX** for speech recognition, **diarization and speaker detection**, and **LLMs** for generating summaries and reports using **LangChain** integrated with a locally hosted **Mistral 7B** model (GGUF quantized model). This comprehensive pipeline provided accurate and detailed meeting notes with speaker differentiation and contextual reporting.
 
+<div>
+    <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1695308256768x626644891139990000%2Fopen-ai.png?w=&h=&auto=compress&dpr=1&fit=max" alt="OpenAI Whisper" style="width:200px; height:auto;" class="float-left">
+    <img src="https://cdn.jaimelesstartups.fr/wp-content/uploads/2024/02/Logo%20de%20la%20startup%20Mistral.ai.png" alt="Mistral AI" style="width:200px; height:auto;" class="float-right">
+</div>
+
 - **R&D: Vocal Assistant**:
   - Designed an end-to-end **speech-to-text (STT) + LLM agents + text-to-speech (TTS)** pipeline for a fully experimental vocal assistant. 
   - Integrated **LangChain-based LLM agents** to handle specific functions, including web search, language recognition to provide responses in the appropriate language, and **retrieval-augmented generation (RAG)** with a simple vectorstore for contextual answers.
 
- <img src="https://cdn.jaimelesstartups.fr/wp-content/uploads/2024/02/Logo%20de%20la%20startup%20Mistral.ai.png" alt="Mistral AI" style="width:200px; height:auto;" class="center">
 
