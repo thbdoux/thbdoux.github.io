@@ -45,8 +45,11 @@ Okay. This is where **we come in** :
 
 <img src="2024-11-16-personal-projects/assets/img/aibros.png" alt="AI Bros" style="width:300px; height:auto;" class="center">
 
+![]({{ '/assets/img/aibros.png' | relative_url }})
 
 ## Some more AI stuff 
+
+LLM-Agent for Business Intelligence. Querying SQL Databases, generation intuitive visualizations. There is even a feature that automate the discovery of any database by generating the insights itself. I called it : **Rescue-L**. Good name, isn't it?
 
 
 ## AI Hackathon
@@ -54,9 +57,10 @@ Okay. This is where **we come in** :
 <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/qd/76a433f2-9621-4f19-956b-c73a86aa1e9d" alt="LLM Hack" style="width:200px; height:auto;" class="center">
 
 <img src="2024-11-16-personal-projects/assets/img/DSC01356.JPG" alt="Double AI Bros biceps" style="width:300px; height:auto;" class="center">
+![]({{ '/assets/img/DSC01356.JPG' | relative_url }})
 
 <img src="2024-11-16-personal-projects/assets/img/DSC01635.JPG" alt="AI Bros presentation" style="width:300px; height:auto;" class="center">
-
+![]({{ '/assets/img/DSC01635.JPG' | relative_url }})
 
 ## Writing a book 
 
