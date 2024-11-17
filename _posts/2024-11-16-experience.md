@@ -9,11 +9,10 @@ comments: true
 mathjax: true
 author: Thibault Doux
 ---
-
+At HeadMind Partners AI, I contributed to the development of deep learning solutions for audio processing, LLM-driven applications, and cutting-edge operational research systems. My work spanned from building speech emotion recognition models and meeting summarizers to optimizing supply chains for luxury brands. 
 ---
 
 <img src="https://join.headmind.com/wp-content/uploads/2021/12/Logo-HeadMind-Partners-PNG-BLEU.png" alt="" style="width:400px; height:auto;" class="center">
-
 
 ## Internship (April 2023 - October 2023)
 
