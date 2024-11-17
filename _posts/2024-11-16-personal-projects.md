@@ -4,7 +4,7 @@ title: My Free Time Is Not Spared
 subtitle: No time for laziness
 gh-repo: thbdoux/
 gh-badge: [follow]
-tags: [hackathon, writing, ai projects]
+tags: [hackathon, writing, ai projects, sport]
 thumbnail-img: /assets/img/DSC01474.JPG
 comments: true
 mathjax: true
