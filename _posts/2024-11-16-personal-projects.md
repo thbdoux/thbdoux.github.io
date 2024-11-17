@@ -5,17 +5,17 @@ subtitle: No time for laziness
 gh-repo: thbdoux/
 gh-badge: [follow]
 tags: [hackathon, writing, ai projects, sport]
-thumbnail-img: /assets/img/DSC01474.JPG
+thumbnail-img: /assets/img/bible.jpg
 comments: true
 mathjax: true
 author: Thibault Doux
+--- 
+
+In my free time, I refuse to stay idle. Whether it's running marathons, lifting weights, diving into AI projects, reading, or making progress on my book, there's always something in the works.
+
 ---
 
 > Tell me what you do on your free time, I'll tell you who you are. 
-
----
-
-In my free time, I refuse to stay idle. Whether it's pushing my limits in sports, diving into AI projects, or making progress on my book, there's always something in the works.
 
 ---
 
